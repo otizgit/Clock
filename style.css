@@ -128,7 +128,7 @@ body {
 }
 
 .minute {
-    height: 40%;
+    height: 39%;
     width: clamp(9px, .6vw, 14px);
     background-color: black;
     transition: .4s ease;
